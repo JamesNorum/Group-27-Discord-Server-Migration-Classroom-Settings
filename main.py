@@ -27,22 +27,22 @@ async def on_message(message):
     return
 
   if message.content.startswith('fuck'):
-    await message.channel.send('We DONT use that type of language here, you cunt')
+    await message.channel.send('We DONT use that type of language here')
     
   if message.content.startswith('shit'):
-    await message.channel.send('We DONT use that type of language here, you cunt')
+    await message.channel.send('We DONT use that type of language here')
 
   if message.content.startswith('cunt'):
-    await message.channel.send('We DONT use that type of language here, you cunt')
+    await message.channel.send('We DONT use that type of language here')
 
   if message.content.startswith('dick'):
-    await message.channel.send('We DONT use that type of language here, you cunt')
+    await message.channel.send('We DONT use that type of language here')
 
   if message.content.startswith('tit'):
-    await message.channel.send('We DONT use that type of language here, you cunt')
+    await message.channel.send('We DONT use that type of language here')
 
   if message.content.startswith('ass'):
-    await message.channel.send('We DONT use that type of language here, you cunt')
+    await message.channel.send('We DONT use that type of language here')
     
 
   if message.content.startswith('nigh'):
